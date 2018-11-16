@@ -14,7 +14,7 @@ won't be oscillating any more.
 This is how it happens:
 
 
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/state1.png)
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/state2.png)
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/state3.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step1.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step2.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step3.pdf)
 
