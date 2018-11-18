@@ -16,15 +16,15 @@ This is how it happens:
 
 Orange dots - border. Dots inside randomly placed in corners. 
 
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step1.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/img/step1.png)
 
 
 After few iterations. 
 
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step2.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/img/step2.png)
 
 
 The final net. Now we can perform Delaunay triangulation, for example. 
 
-![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/step3.png)
+![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/img/step3.png)
 
