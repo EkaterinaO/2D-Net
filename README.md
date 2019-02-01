@@ -18,7 +18,7 @@ After a few iterations.
 ![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/img/step2.png)
 
 
-The final net. Now we can perform Delaunay triangulation, for example. 
+The final net. 
 
 ![alt text](https://github.com/EkaterinaO/2D-Net/blob/master/img/step3.png)
 
